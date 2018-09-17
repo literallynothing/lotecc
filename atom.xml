@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>LoTecc</title>
+  
+  <subtitle>Empowering people 2 muv teh world</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://lotecc.com/"/>
+  <updated>2018-09-17T05:54:44.318Z</updated>
+  <id>http://lotecc.com/</id>
+  
+  <author>
+    <name>LoTecc</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Placeholder</title>
+    <link href="http://lotecc.com/2018/09/17/Placeholder/"/>
+    <id>http://lotecc.com/2018/09/17/Placeholder/</id>
+    <published>2018-09-17T05:48:46.000Z</published>
+    <updated>2018-09-17T05:54:44.318Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;I just wanted to come here and quickly set up a simple placeholder that will be used while I format this blog.  I’ll have real content
+        
+      
+    
+    </summary>
+    
+    
+      <category term="init" scheme="http://lotecc.com/tags/init/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://lotecc.com/2018/09/17/hello-world/"/>
+    <id>http://lotecc.com/2018/09/17/hello-world/</id>
+    <published>2018-09-17T05:34:20.876Z</published>
+    <updated>2018-09-17T05:34:20.876Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
